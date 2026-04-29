@@ -40,6 +40,7 @@ Projekty rozwijane i testowane na:
 
 ### 📫 Kontakt i Social Media
 [![YouTube Channel](https://img.shields.io/badge/YouTube-MAKisON-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0FFTjz3nILotqay53bQdbw)
+s
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makison1070@gmail.com)
 
 ---
