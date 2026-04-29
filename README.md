@@ -27,11 +27,19 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 
 ---
 
-### 🛠️ Technologie (Mój Hardware)
-*   **Silnik:** PHP 8.x (pure logic, no bullshit).
-*   **Baza:** MySQL / MariaDB (zarządzana przez mysqli + PDO).
-*   **Front-end:** Vanilla HTML5, CSS3 oraz Bootstrap + Bootswatch.
-*   **Warsztat:** VS Code na pokładzie **Windows 11** oraz **macOS Tahoe**.
+### 🛠️ Technologie (Mój hardware oraz software)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+#### ⚙️ Serwer
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
