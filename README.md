@@ -19,17 +19,17 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 
 ---
 
-### ⚡ Funkcje Systemu (Cheat Sheet)
+### ⚡ Funkcje Systemu
 * `✅ Full CRUD` — Dodawanie, edycja i usuwanie (pracownicy, etaty, zespoły).
 * `🔍 Eagle Eye Search` — Błyskawiczne wyszukiwanie ludzi po imieniu i nazwisku.
 * `🔗 Relational Logic` — Twarde powiązania w bazie (ETAT, ID_SZEFA, ID_ZESP).
 * `🛡️ Anti-Misclick` — System potwierdzeń, żebyś przypadkiem nie zwolnił połowy firmy (szefa też, bo co to za pracownia bez szefa).
-* `🎨 Vanilla UI` — Nowoczesny layout z zakładkami. Czyste HTML/CSS i Bootstrap + Bootswatch. Dynamiczne przeładowania przez AJAX & jQuery.
+* `🎨 Vanilla UI` — Nowoczesny layout z zakładkami. Czyste HTML/CSS i Bootstrap + Bootswatch.
 
 ---
 
 ### 🛠️ Technologie
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 #### ⚙️ Serwer
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white)
@@ -37,18 +37,22 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 ---
 
 ### 📂 Co siedzi w środku?
-* `/pracownia` — Serce systemu. Zarządzanie kadrą, etatami i zespołami w klasycznym PHP.
-* `/pracownia_ajax` — To samo co wyżej, ale w pełni przeportowane na **AJAX** (dynamiczne operacje bez przeładowania strony).
+* **`/pracownia`** - Serce systemu. Zarządzanie kadrą, etatami i zespołami.
+* **`/pracownia_ajax`** - To samo co pracownia ale port w ajax.
+* **Web Development** - Inne layouty i eksperymenty, na których szlifowałem skilla.
+* **Praktyka Zawodowa** - Materiały, które robią ze mnie pro-informatyka.
 
 ---
 
 ### ⚠️ Troubleshooting (Gdy baza powie "nie")
 * **Connection Error?** Sprawdź plik konfiguracyjny, pewnie host albo hasło leży.
 * **Puste tabele?** Nie zapomnij zaimportować struktury `.sql` przed startem.
-* **Style nie działają?** `CTRL + F5` – przeglądarka czasem kocha stare cache bardziej niż Twój nowy kod.
+* **Style nie działają?** CTRL + F5 – przeglądarka czasem kocha stare cache bardziej niż Twój nowy kod.
 
 ---
 
 ### 📫 Kontakt
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makison1070@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-MAKisON-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MAKisON)
+
+---
