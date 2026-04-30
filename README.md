@@ -2,13 +2,13 @@
 
 > "Zarządzanie strukturą firmy w czystym PHP – solidny fundament od G.T. i nowoczesny look Bootstrapa."
 
-![Built with Brainpower](https://img.shields.io/badge/Built%20with-Brainpower-red?style=for-the-badge)
-![Powered by](https://img.shields.io/badge/Powered%20by-PHP%20%2B%20SQL%20%2B%20Ajax%20%2B%20jQuery%20%2B%20JS-blue?style=for-the-badge)
-![Vibe for](https://img.shields.io/badge/Vibe%20for-projekty-green?style=for-the-badge)
-
-To repozytorium to mój poligon doświadczalny. Bazując na solidnych przykładach z lekcji u legendarnego Grzegorza T., postanowiłem dojechać temat PHP do perfekcji. Żadnych generatorów, żadnego lania wody – tylko czysta logika i walka o każdy rekord w bazie.
+![Built with Brainpower](https://img.shields.io/badge/Built%20with-Brainpower-red)
+![Powered by SQL](https://img.shields.io/badge/Powered%20by-Pure%20SQL-blue)
+![Vibe for](https://img.shields.io/badge/Vibe%20for-125cc%20Moto-green)
 
 ---
+
+To repozytorium to mój poligon doświadczalny. Bazując na solidnych przykładach z lekcji u legendarnego Grzegorza T., postanowiłem dojechać temat PHP do perfekcji. Żadnych generatorów, żadnego lania wody – tylko czysta logika i walka o każdy rekord w bazie.
 
 ### 📜 Lore: Projekt Pracownia
 Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły projekt. To system CRUD zbudowany od zera, żeby zrozumieć, jak naprawdę płyną dane między front-endem a bazą. To tutaj uczyłem się, że porządny SQL to podstawa, a `ID_SZEFA` w relacji to nie żarty.
@@ -29,7 +29,10 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 ---
 
 ### 🛠️ Technologie
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+#### ⚙️ Serwer
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white)
 
 ---
 
