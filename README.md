@@ -19,15 +19,12 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 
 ---
 
-### ⚡ Funkcje Systemu (Cheat Sheet)
-
-| Funkcja | Status | Opis |
-| :--- | :---: | :--- |
-| **Full CRUD** | ✅ | Dodawanie, edycja i usuwanie (pracownicy, etaty, zespoły). |
-| **Eagle Eye Search** | 🔍 | Błyskawiczne wyszukiwanie ludzi po imieniu i nazwisku. |
-| **Relational Logic** | 🔗 | Twarde powiązania w bazie (ETAT, ID_SZEFA, ID_ZESP). |
-| **Anti-Misclick** | 🛡️ | System potwierdzeń, żebyś przypadkiem nie zwolnił połowy firmy (szefa też, bo co to za pracownia bez szefa). |
-| **Vanilla UI** | 🎨 | Nowoczesny layout z zakładkami. Czyste HTML/CSS i Bootstrap + Bootswatch. |
+### ⚡ Funkcje Systemu
+* **Full CRUD** — Dodawanie, edycja i usuwanie pracowników, etatów oraz zespołów.
+* **Eagle Eye Search** — Błyskawiczne wyszukiwanie ludzi po imieniu i nazwisku.
+* **Relational Logic** — Twarde powiązania w bazie (ETAT, ID_SZEFA, ID_ZESP).
+* **Anti-Misclick** — System potwierdzeń przy usuwaniu, żebyś przypadkiem nie zwolnił połowy firmy (szefa też, bo co to za pracownia bez szefa).
+* **Vanilla UI** — Nowoczesny layout z zakładkami oparty na czystym HTML/CSS, Bootstrapie i Bootswatchu.
 
 ---
 
