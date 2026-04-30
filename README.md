@@ -4,7 +4,7 @@
 
 ![Built with Brainpower](https://img.shields.io/badge/Built%20with-Brainpower-red)
 ![Powered by SQL](https://img.shields.io/badge/Powered%20by-Pure%20SQL-blue)
-![Vibe for](https://img.shields.io/badge/Vibe%20for-125cc%20Moto-green)
+![Vibe for](https://img.shields.io/badge/Vibe%20for-projekty%20-green)
 
 ---
 
@@ -30,7 +30,7 @@ Aplikacja **Pracownia** (a konkretnie moduł Pracownicy) to nie jest zwykły pro
 
 ### 🛠️ Technologie (Mój hardware oraz software)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS Tahoe](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
