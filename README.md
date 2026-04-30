@@ -1,4 +1,4 @@
-# # 💼 Zawodowe - PHP & SQL Ultimate Pack
+# 💼 Zawodowe - PHP & SQL Ultimate Pack
 
 > "Zarządzanie strukturą firmy w czystym PHP – solidny fundament od G.T. i nowoczesny look Bootstrapa."
 
